@@ -1,0 +1,2 @@
+# Dental-Clinic-Management-System---Database-Administration-BI-Solutions
+A comprehensive DBMS and BI solution for a dental clinic, focusing on normalized database architecture and analytical reporting. Designed to optimize clinical workflows, including patient records, scheduling, and inventory. Features include robust SQL Server schema design, EERD modeling, and SSAS-based reporting for actionable business insights.
